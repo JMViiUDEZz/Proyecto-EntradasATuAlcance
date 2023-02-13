@@ -1,6 +1,0 @@
-[submodule "app"]
-	path = app
-	url = https://github.com/JMViiUDEZz/EntradasATuAlcance-Frontend.git
-[submodule "api"]
-	path = api
-	url = https://github.com/JMViiUDEZz/EntradasATuAlcance-Backend.git
